@@ -1,2 +1,13 @@
-# image-classification-using-flask
- Sample image classification using tensorflow, keras and flask
+## Installation
+
+Before using RAPTOR, ensure Python 3.8+ is installed. Clone the RAPTOR repository and install necessary dependencies:
+
+```bash
+gh repo clone robitussin/image-classification-using-flask
+cd image-classification-using-flask
+pip install -r requirements.txt
+```
+
+## Basic Usage
+
+To get started, run app.ipynb
