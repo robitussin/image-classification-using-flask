@@ -1,0 +1,6 @@
+flask
+os
+tensorflow
+keras
+pillow
+gevent
